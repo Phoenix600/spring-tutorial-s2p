@@ -1,6 +1,6 @@
-package com.springioc.demo.config;
+package com.springioc.demo.javaBasedConfiguration.bean.config;
 
-import com.springioc.demo.bean.*;
+import com.springioc.demo.javaBasedConfiguration.bean.*;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 

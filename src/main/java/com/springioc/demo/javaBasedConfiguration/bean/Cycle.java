@@ -1,4 +1,4 @@
-package com.springioc.demo.bean;
+package com.springioc.demo.javaBasedConfiguration.bean;
 
 public class Cycle implements  Vehicle{
     @Override

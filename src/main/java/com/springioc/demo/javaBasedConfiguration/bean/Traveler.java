@@ -1,6 +1,4 @@
-package com.springioc.demo.bean;
-
-import java.beans.VetoableChangeListener;
+package com.springioc.demo.javaBasedConfiguration.bean;
 
 public class Traveler {
     private final Vehicle vehicle;
